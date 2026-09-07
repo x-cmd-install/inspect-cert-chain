@@ -5,7 +5,7 @@ about:
   head: 39b3ec7
   archived: false
   latestVersion: "v0.0.35"
-  collectedAt: 2026-09-07T04:55:37Z
+  collectedAt: 2026-09-07T19:31:07Z
 timeline:
   created: 2023-05-30
   lastCommit: 2026-09-01
@@ -82,7 +82,7 @@ total:
   commit: 593
 ---
 path: /home/runner/.x-repo/github.com/robjtede/inspect-cert-chain
-collectedAt: 2026-09-07T04:55:40Z
+collectedAt: 2026-09-07T19:31:08Z
 loc:
   Rust:
     code: 957
@@ -113,7 +113,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:55:41+00:00
+  collectedAt: 2026-09-07T19:31:09+00:00
   platform:
     darwin/arm64:
       name:  inspect-cert-chain-aarch64-apple-darwin.tar.gz
