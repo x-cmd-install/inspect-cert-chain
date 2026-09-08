@@ -5,7 +5,7 @@ about:
   head: 39b3ec7
   archived: false
   latestVersion: "v0.0.35"
-  collectedAt: 2026-09-08T02:12:07Z
+  collectedAt: 2026-09-08T05:07:01Z
 timeline:
   created: 2023-05-30
   lastCommit: 2026-09-01
@@ -82,7 +82,7 @@ total:
   commit: 593
 ---
 path: /home/runner/.x-repo/github.com/robjtede/inspect-cert-chain
-collectedAt: 2026-09-08T02:12:07Z
+collectedAt: 2026-09-08T05:07:02Z
 loc:
   Rust:
     code: 957
