@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2464521,
       "digest": "sha256:278fed903f58ef634909ecffa759584e1bc98b699058b08fb7ba13ecb6a1c18a",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-08-10T02:29:37Z",
       "updated_at": "2026-08-10T02:29:38Z",
       "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.35/inspect-cert-chain-x86_64-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 2542274,
       "digest": "sha256:6119b7a1edbf0dfa1011eace4a97e5882bea6d16633546bbb570850373a27c11",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-08-10T02:29:22Z",
       "updated_at": "2026-08-10T02:29:22Z",
       "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.35/inspect-cert-chain-x86_64-unknown-linux-musl.tar.gz"
