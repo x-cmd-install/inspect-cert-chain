@@ -4,7 +4,7 @@
 
 Inspect and debug TLS certificate chains (without OpenSSL)
 
-[![x-cmd/install — inspect-cert-chain Code Quality Monitoring Repo Card](https://repo.x-cmd.io/inspect-cert-chain.svg)](https://x-cmd.com/install/inspect-cert-chain)
+[![x-cmd/install — inspect-cert-chain Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/inspect-cert-chain.svg)](https://x-cmd.com/install/inspect-cert-chain)
 
 ## Install
 
@@ -46,12 +46,12 @@ Total: **1,053** lines of code across **11** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 9 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 10 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 11 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 9 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 10 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 11 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 17 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for inspect-cert-chain lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:21:33Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:23:26Z._
