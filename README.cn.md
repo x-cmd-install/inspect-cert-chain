@@ -14,14 +14,15 @@ x install inspect-cert-chain
 
 ## 代码洞察
 
-合计: **1,053** 行代码（覆盖前 5 种语言、共 **11** 个文件）。
+合计: **2,476** 行代码（覆盖前 5 种语言、共 **15** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 957 | 15 | 178 | 7 |
+| Rust | 2,334 | 19 | 410 | 10 |
 | Nix | 53 | 12 | 6 | 1 |
+| Sh | 46 | 1 | 9 | 1 |
 | Toml | 43 | 0 | 3 | 1 |
-| Markdown | 0 | 138 | 112 | 2 |
+| Markdown | 0 | 222 | 157 | 2 |
 
 ## 源代码
 
@@ -30,49 +31,49 @@ x install inspect-cert-chain
 
 ## 发布
 
-- **最新版本**: `v0.0.37` (2026-09-29)
-- **最近提交**: 2026-09-30
+- **最新版本**: `v0.0.42` (2026-10-02)
+- **最近提交**: 2026-10-02
 - **Release 含资产**: 16 个
 
 ## 流行度
 
-- **Star**: 63 · **Fork**: 1 · **开放 issue**: 6 · **贡献者**: 2
+- **Star**: 63 · **Fork**: 1 · **开放 issue**: 6 · **贡献者**: 3
 
 ## 累计统计
 
-- **发布数**: 33 · **已合并 PR**: 468 · **开放 PR**: 1 · **已关闭 issue**: 6 · **开放 issue**: 0 · **提交数**: 602
+- **发布数**: 38 · **已合并 PR**: 496 · **开放 PR**: 2 · **已关闭 issue**: 6 · **开放 issue**: 0 · **提交数**: 627
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-02 | 10 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-03 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-04 | 12 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-06 | 13 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-11 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-02 | 7 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-03 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-04 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-05 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-07 | 18 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-12 | 23 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [inspect-cert-chain-aarch64-apple-darwin.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-aarch64-apple-darwin.sha256) | 113 B | `native/darwin/arm64` |
-| [inspect-cert-chain-aarch64-apple-darwin.tar.gz](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-aarch64-apple-darwin.tar.gz) | 2.0 MiB | `native/darwin/arm64` |
-| [inspect-cert-chain-aarch64-unknown-linux-gnu.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-aarch64-unknown-linux-gnu.sha256) | 118 B | `native/linux/arm64/glibc` |
-| [inspect-cert-chain-aarch64-unknown-linux-gnu.tar.gz](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-aarch64-unknown-linux-gnu.tar.gz) | 2.2 MiB | `native/linux/arm64/glibc` |
-| [inspect-cert-chain-aarch64-unknown-linux-musl.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-aarch64-unknown-linux-musl.sha256) | 119 B | `native/linux/arm64/musl` |
-| [inspect-cert-chain-aarch64-unknown-linux-musl.tar.gz](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-aarch64-unknown-linux-musl.tar.gz) | 2.3 MiB | `native/linux/arm64/musl` |
-| [inspect-cert-chain-universal-apple-darwin.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-universal-apple-darwin.sha256) | 115 B | `native/darwin/x64` |
-| [inspect-cert-chain-universal-apple-darwin.tar.gz](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-universal-apple-darwin.tar.gz) | 4.2 MiB | `native/darwin/x64` |
-| [inspect-cert-chain-x86_64-apple-darwin.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-x86_64-apple-darwin.sha256) | 112 B | `native/darwin/x64` |
-| [inspect-cert-chain-x86_64-apple-darwin.tar.gz](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-x86_64-apple-darwin.tar.gz) | 2.2 MiB | `native/darwin/x64` |
-| [inspect-cert-chain-x86_64-pc-windows-msvc.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-x86_64-pc-windows-msvc.sha256) | 112 B | `native/win/x64` |
-| [inspect-cert-chain-x86_64-pc-windows-msvc.zip](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-x86_64-pc-windows-msvc.zip) | 1.6 MiB | `native/win/x64` |
-| [inspect-cert-chain-x86_64-unknown-linux-gnu.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-x86_64-unknown-linux-gnu.sha256) | 117 B | `native/linux/x64/glibc` |
-| [inspect-cert-chain-x86_64-unknown-linux-gnu.tar.gz](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-x86_64-unknown-linux-gnu.tar.gz) | 2.4 MiB | `native/linux/x64/glibc` |
-| [inspect-cert-chain-x86_64-unknown-linux-musl.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-x86_64-unknown-linux-musl.sha256) | 118 B | `native/linux/x64/musl` |
-| [inspect-cert-chain-x86_64-unknown-linux-musl.tar.gz](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.37/inspect-cert-chain-x86_64-unknown-linux-musl.tar.gz) | 2.5 MiB | `native/linux/x64/musl` |
+| [inspect-cert-chain-aarch64-apple-darwin.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-aarch64-apple-darwin.sha256) | 113 B | `native/darwin/arm64` |
+| [inspect-cert-chain-aarch64-apple-darwin.tar.gz](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-aarch64-apple-darwin.tar.gz) | 2.1 MiB | `native/darwin/arm64` |
+| [inspect-cert-chain-aarch64-unknown-linux-gnu.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-aarch64-unknown-linux-gnu.sha256) | 118 B | `native/linux/arm64/glibc` |
+| [inspect-cert-chain-aarch64-unknown-linux-gnu.tar.gz](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-aarch64-unknown-linux-gnu.tar.gz) | 2.3 MiB | `native/linux/arm64/glibc` |
+| [inspect-cert-chain-aarch64-unknown-linux-musl.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-aarch64-unknown-linux-musl.sha256) | 119 B | `native/linux/arm64/musl` |
+| [inspect-cert-chain-aarch64-unknown-linux-musl.tar.gz](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-aarch64-unknown-linux-musl.tar.gz) | 2.3 MiB | `native/linux/arm64/musl` |
+| [inspect-cert-chain-universal-apple-darwin.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-universal-apple-darwin.sha256) | 115 B | `native/darwin/x64` |
+| [inspect-cert-chain-universal-apple-darwin.tar.gz](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-universal-apple-darwin.tar.gz) | 4.4 MiB | `native/darwin/x64` |
+| [inspect-cert-chain-x86_64-apple-darwin.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-apple-darwin.sha256) | 112 B | `native/darwin/x64` |
+| [inspect-cert-chain-x86_64-apple-darwin.tar.gz](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-apple-darwin.tar.gz) | 2.3 MiB | `native/darwin/x64` |
+| [inspect-cert-chain-x86_64-pc-windows-msvc.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-pc-windows-msvc.sha256) | 112 B | `native/win/x64` |
+| [inspect-cert-chain-x86_64-pc-windows-msvc.zip](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-pc-windows-msvc.zip) | 1.7 MiB | `native/win/x64` |
+| [inspect-cert-chain-x86_64-unknown-linux-gnu.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-unknown-linux-gnu.sha256) | 117 B | `native/linux/x64/glibc` |
+| [inspect-cert-chain-x86_64-unknown-linux-gnu.tar.gz](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-unknown-linux-gnu.tar.gz) | 2.4 MiB | `native/linux/x64/glibc` |
+| [inspect-cert-chain-x86_64-unknown-linux-musl.sha256](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-unknown-linux-musl.sha256) | 118 B | `native/linux/x64/musl` |
+| [inspect-cert-chain-x86_64-unknown-linux-musl.tar.gz](https://github.com/robjtede/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-unknown-linux-musl.tar.gz) | 2.5 MiB | `native/linux/x64/musl` |
 
 ## 改进这些数据
 
@@ -83,4 +84,4 @@ inspect-cert-chain 的安装元数据由 [x-cmd/install](https://github.com/x-cm
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261001.yml` · 2026-10-01T06:14:11Z._
+_数据快照: `data/card/261002.yml` · 2026-10-02T05:55:18Z._
