@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/401563102",
-  "assets_url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/401563102/assets",
-  "upload_url": "https://uploads.github.com/repos/x52dev/inspect-cert-chain/releases/401563102/assets{?name,label}",
-  "html_url": "https://github.com/x52dev/inspect-cert-chain/releases/tag/v0.0.42",
-  "id": 401563102,
+  "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/402019674",
+  "assets_url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/402019674/assets",
+  "upload_url": "https://uploads.github.com/repos/x52dev/inspect-cert-chain/releases/402019674/assets{?name,label}",
+  "html_url": "https://github.com/x52dev/inspect-cert-chain/releases/tag/v0.0.43",
+  "id": 402019674,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOJpF-I84X713e",
-  "tag_name": "v0.0.42",
+  "node_id": "RE_kwDOJpF-I84X9lVa",
+  "tag_name": "v0.0.43",
   "target_commitish": "main",
-  "name": "v0.0.42",
+  "name": "v0.0.43",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-02T05:31:01Z",
-  "updated_at": "2026-10-02T05:42:54Z",
-  "published_at": "2026-10-02T05:41:10Z",
+  "created_at": "2026-10-02T17:27:38Z",
+  "updated_at": "2026-10-02T17:33:35Z",
+  "published_at": "2026-10-02T17:33:35Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604889673",
-      "id": 604889673,
-      "node_id": "RA_kwDOJpF-I84kDeJJ",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606120788",
+      "id": 606120788,
+      "node_id": "RA_kwDOJpF-I84kIKtU",
       "name": "inspect-cert-chain-aarch64-apple-darwin.sha256",
       "label": "",
       "uploader": {
@@ -66,16 +66,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 113,
-      "digest": "sha256:051824cf71e0ac343053c9822c7b5951bf3c1dba77b38c046b5b37258a7a04a4",
+      "digest": "sha256:7367df3972e03b12cb2ef27037ff22dbfead5215db2c4934c8ef2a669fa0a39d",
       "download_count": 2,
-      "created_at": "2026-10-02T05:34:17Z",
-      "updated_at": "2026-10-02T05:34:17Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-aarch64-apple-darwin.sha256"
+      "created_at": "2026-10-02T17:29:35Z",
+      "updated_at": "2026-10-02T17:29:35Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-aarch64-apple-darwin.sha256"
     },
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604889670",
-      "id": 604889670,
-      "node_id": "RA_kwDOJpF-I84kDeJG",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606120787",
+      "id": 606120787,
+      "node_id": "RA_kwDOJpF-I84kIKtT",
       "name": "inspect-cert-chain-aarch64-apple-darwin.tar.gz",
       "label": "",
       "uploader": {
@@ -101,17 +101,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 2196911,
-      "digest": "sha256:e7260f81e38cd7ce350030e9c38bd81dc98b19da8082ca3caf40423e272a7f8a",
-      "download_count": 0,
-      "created_at": "2026-10-02T05:34:17Z",
-      "updated_at": "2026-10-02T05:34:17Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-aarch64-apple-darwin.tar.gz"
+      "size": 2199564,
+      "digest": "sha256:5090835d0ba221234e234cf530c5f8ec2e74b7590e93ed6cc839efd7cdca358e",
+      "download_count": 1,
+      "created_at": "2026-10-02T17:29:35Z",
+      "updated_at": "2026-10-02T17:29:35Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-aarch64-apple-darwin.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604889665",
-      "id": 604889665,
-      "node_id": "RA_kwDOJpF-I84kDeJB",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606122281",
+      "id": 606122281,
+      "node_id": "RA_kwDOJpF-I84kILEp",
       "name": "inspect-cert-chain-aarch64-unknown-linux-gnu.sha256",
       "label": "",
       "uploader": {
@@ -138,16 +138,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 118,
-      "digest": "sha256:40ac2541e9aa6ac9fa9948261279c9672b74e906e51604904dc3fe6eab8a066b",
+      "digest": "sha256:db23ad17b4dd28ae2ce9bffe02ad52642e6fac5a3f1fd104513bad61d173f422",
       "download_count": 1,
-      "created_at": "2026-10-02T05:34:16Z",
-      "updated_at": "2026-10-02T05:34:17Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-aarch64-unknown-linux-gnu.sha256"
+      "created_at": "2026-10-02T17:30:38Z",
+      "updated_at": "2026-10-02T17:30:38Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-aarch64-unknown-linux-gnu.sha256"
     },
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604889662",
-      "id": 604889662,
-      "node_id": "RA_kwDOJpF-I84kDeI-",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606122280",
+      "id": 606122280,
+      "node_id": "RA_kwDOJpF-I84kILEo",
       "name": "inspect-cert-chain-aarch64-unknown-linux-gnu.tar.gz",
       "label": "",
       "uploader": {
@@ -173,17 +173,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 2395552,
-      "digest": "sha256:11186c0c31ee7224a378fa2508c35fd32fab987dbdceb26d78e46343725a7d9a",
+      "size": 2396868,
+      "digest": "sha256:cc31f0b2b03957949f8a66431fbb873f25dcace1266961bdf414d4a3d43e6819",
       "download_count": 0,
-      "created_at": "2026-10-02T05:34:16Z",
-      "updated_at": "2026-10-02T05:34:17Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-aarch64-unknown-linux-gnu.tar.gz"
+      "created_at": "2026-10-02T17:30:38Z",
+      "updated_at": "2026-10-02T17:30:38Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-aarch64-unknown-linux-gnu.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604887897",
-      "id": 604887897,
-      "node_id": "RA_kwDOJpF-I84kDdtZ",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606121792",
+      "id": 606121792,
+      "node_id": "RA_kwDOJpF-I84kIK9A",
       "name": "inspect-cert-chain-aarch64-unknown-linux-musl.sha256",
       "label": "",
       "uploader": {
@@ -210,16 +210,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 119,
-      "digest": "sha256:248f0573973d4f4eeb6d991b0c7f57675d01746dd40749acf39b7b9d2b03c2d7",
+      "digest": "sha256:90306605fc8e346eb46d6e01822289a426cdf62b148ac81d28706117e5813bd0",
       "download_count": 1,
-      "created_at": "2026-10-02T05:33:07Z",
-      "updated_at": "2026-10-02T05:33:07Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-aarch64-unknown-linux-musl.sha256"
+      "created_at": "2026-10-02T17:30:15Z",
+      "updated_at": "2026-10-02T17:30:16Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-aarch64-unknown-linux-musl.sha256"
     },
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604887895",
-      "id": 604887895,
-      "node_id": "RA_kwDOJpF-I84kDdtX",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606121790",
+      "id": 606121790,
+      "node_id": "RA_kwDOJpF-I84kIK8-",
       "name": "inspect-cert-chain-aarch64-unknown-linux-musl.tar.gz",
       "label": "",
       "uploader": {
@@ -245,17 +245,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 2440005,
-      "digest": "sha256:8bb3504d3a0713167a99dab70031d8d7da559c1617850452a01a9a81795d9fca",
+      "size": 2441717,
+      "digest": "sha256:886341cb49760f0c1fc3dd910d28e73ad268a0a18103cd4c99c0a34d70fa0949",
       "download_count": 0,
-      "created_at": "2026-10-02T05:33:07Z",
-      "updated_at": "2026-10-02T05:33:07Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-aarch64-unknown-linux-musl.tar.gz"
+      "created_at": "2026-10-02T17:30:15Z",
+      "updated_at": "2026-10-02T17:30:16Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-aarch64-unknown-linux-musl.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604892915",
-      "id": 604892915,
-      "node_id": "RA_kwDOJpF-I84kDe7z",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606121215",
+      "id": 606121215,
+      "node_id": "RA_kwDOJpF-I84kIKz_",
       "name": "inspect-cert-chain-universal-apple-darwin.sha256",
       "label": "",
       "uploader": {
@@ -282,16 +282,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 115,
-      "digest": "sha256:03efdc1d23b273a0444c3d48d7c8e097e07cdad15ca43d697e9e6a19a76023fe",
+      "digest": "sha256:df6db4a4916b8ac3f51fd533cc3c3c2f605451cd36d76d62255fccfd3f9c47f0",
       "download_count": 1,
-      "created_at": "2026-10-02T05:35:57Z",
-      "updated_at": "2026-10-02T05:35:58Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-universal-apple-darwin.sha256"
+      "created_at": "2026-10-02T17:29:50Z",
+      "updated_at": "2026-10-02T17:29:50Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-universal-apple-darwin.sha256"
     },
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604892916",
-      "id": 604892916,
-      "node_id": "RA_kwDOJpF-I84kDe70",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606121214",
+      "id": 606121214,
+      "node_id": "RA_kwDOJpF-I84kIKz-",
       "name": "inspect-cert-chain-universal-apple-darwin.tar.gz",
       "label": "",
       "uploader": {
@@ -317,17 +317,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 4591700,
-      "digest": "sha256:3b1db499d440a821b89f3b3bf7ffbda9ed85181ccf9a638a455a065bed07bf2c",
+      "size": 4598078,
+      "digest": "sha256:d78f0c5d560cbf7c1ae1e02474ed745daf79f564b866884bdeaf5e9b1c9d925d",
       "download_count": 0,
-      "created_at": "2026-10-02T05:35:57Z",
-      "updated_at": "2026-10-02T05:35:58Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-universal-apple-darwin.tar.gz"
+      "created_at": "2026-10-02T17:29:50Z",
+      "updated_at": "2026-10-02T17:29:50Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-universal-apple-darwin.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604889599",
-      "id": 604889599,
-      "node_id": "RA_kwDOJpF-I84kDeH_",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606120799",
+      "id": 606120799,
+      "node_id": "RA_kwDOJpF-I84kIKtf",
       "name": "inspect-cert-chain-x86_64-apple-darwin.sha256",
       "label": "",
       "uploader": {
@@ -354,16 +354,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 112,
-      "digest": "sha256:4432044c40b58b049e6f56d60683377246fce9720438b2ed3fac38b66746c2af",
+      "digest": "sha256:6b0237c18a38c276757f91f92d7b99b32e1c84b1aa70cec87401986c6e60093c",
       "download_count": 2,
-      "created_at": "2026-10-02T05:34:14Z",
-      "updated_at": "2026-10-02T05:34:14Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-apple-darwin.sha256"
+      "created_at": "2026-10-02T17:29:36Z",
+      "updated_at": "2026-10-02T17:29:36Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-x86_64-apple-darwin.sha256"
     },
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604889598",
-      "id": 604889598,
-      "node_id": "RA_kwDOJpF-I84kDeH-",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606120796",
+      "id": 606120796,
+      "node_id": "RA_kwDOJpF-I84kIKtc",
       "name": "inspect-cert-chain-x86_64-apple-darwin.tar.gz",
       "label": "",
       "uploader": {
@@ -389,17 +389,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 2391567,
-      "digest": "sha256:bd61edfc4c3d66dc866673b908377598bb5eadddd00203918e3c0170bb4991ff",
+      "size": 2394409,
+      "digest": "sha256:f9fb4b677ba3f03120a1bed6694349d5e22e71f5458869e9bf5b5a2a1b7227ed",
       "download_count": 0,
-      "created_at": "2026-10-02T05:34:14Z",
-      "updated_at": "2026-10-02T05:34:15Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-apple-darwin.tar.gz"
+      "created_at": "2026-10-02T17:29:35Z",
+      "updated_at": "2026-10-02T17:29:36Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-x86_64-apple-darwin.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604889789",
-      "id": 604889789,
-      "node_id": "RA_kwDOJpF-I84kDeK9",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606124590",
+      "id": 606124590,
+      "node_id": "RA_kwDOJpF-I84kILou",
       "name": "inspect-cert-chain-x86_64-pc-windows-msvc.sha256",
       "label": "",
       "uploader": {
@@ -426,16 +426,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 112,
-      "digest": "sha256:e5d962359ac64aaa4422eb375c3ce25678a8c1939d8c756c2e8b2a111298ad7a",
+      "digest": "sha256:a9dedd30adb7bf1b9bbcdc465514b6fb2eb1b4d123d8b404b18a4cbbbe87d234",
       "download_count": 1,
-      "created_at": "2026-10-02T05:34:20Z",
-      "updated_at": "2026-10-02T05:34:21Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-pc-windows-msvc.sha256"
+      "created_at": "2026-10-02T17:31:48Z",
+      "updated_at": "2026-10-02T17:31:48Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-x86_64-pc-windows-msvc.sha256"
     },
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604889794",
-      "id": 604889794,
-      "node_id": "RA_kwDOJpF-I84kDeLC",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606124591",
+      "id": 606124591,
+      "node_id": "RA_kwDOJpF-I84kILov",
       "name": "inspect-cert-chain-x86_64-pc-windows-msvc.zip",
       "label": "",
       "uploader": {
@@ -461,17 +461,17 @@
       },
       "content_type": "application/zip",
       "state": "uploaded",
-      "size": 1799959,
-      "digest": "sha256:01810527a738d7c0479d0a1282e2b4a874d2b566dcebf074295463ed93c3a3ee",
+      "size": 1806106,
+      "digest": "sha256:5712c12ecd325e051ecf3314674a102cdb4b022a7cd0ba4b43bc4be5cdc4ffc7",
       "download_count": 0,
-      "created_at": "2026-10-02T05:34:21Z",
-      "updated_at": "2026-10-02T05:34:21Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-pc-windows-msvc.zip"
+      "created_at": "2026-10-02T17:31:48Z",
+      "updated_at": "2026-10-02T17:31:49Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-x86_64-pc-windows-msvc.zip"
     },
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604888449",
-      "id": 604888449,
-      "node_id": "RA_kwDOJpF-I84kDd2B",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606121431",
+      "id": 606121431,
+      "node_id": "RA_kwDOJpF-I84kIK3X",
       "name": "inspect-cert-chain-x86_64-unknown-linux-gnu.sha256",
       "label": "",
       "uploader": {
@@ -498,16 +498,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 117,
-      "digest": "sha256:bbcde609264c3ad9c8b9e5bd2e2767b6232f9cacf70e60738f2c4f98ac090231",
+      "digest": "sha256:7d28cf7cb1dc6d243e6906f5b54abff99e3589e52a97796d767df7aaa196a6b1",
       "download_count": 1,
-      "created_at": "2026-10-02T05:33:29Z",
-      "updated_at": "2026-10-02T05:33:30Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-unknown-linux-gnu.sha256"
+      "created_at": "2026-10-02T17:29:58Z",
+      "updated_at": "2026-10-02T17:29:58Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-x86_64-unknown-linux-gnu.sha256"
     },
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604888450",
-      "id": 604888450,
-      "node_id": "RA_kwDOJpF-I84kDd2C",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606121425",
+      "id": 606121425,
+      "node_id": "RA_kwDOJpF-I84kIK3R",
       "name": "inspect-cert-chain-x86_64-unknown-linux-gnu.tar.gz",
       "label": "",
       "uploader": {
@@ -533,17 +533,17 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 2555172,
-      "digest": "sha256:85a8067922f84c01098e38b857ec6e36f6f5e2e40dd8369e380a5dfa7ca524f9",
+      "size": 2557521,
+      "digest": "sha256:3d66c51757a5f1439822b89e89a46f4a9ce09ec0b4a673db86987adbde34f70d",
       "download_count": 0,
-      "created_at": "2026-10-02T05:33:29Z",
-      "updated_at": "2026-10-02T05:33:30Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-unknown-linux-gnu.tar.gz"
+      "created_at": "2026-10-02T17:29:58Z",
+      "updated_at": "2026-10-02T17:29:59Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-x86_64-unknown-linux-gnu.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604887727",
-      "id": 604887727,
-      "node_id": "RA_kwDOJpF-I84kDdqv",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606121343",
+      "id": 606121343,
+      "node_id": "RA_kwDOJpF-I84kIK1_",
       "name": "inspect-cert-chain-x86_64-unknown-linux-musl.sha256",
       "label": "",
       "uploader": {
@@ -570,16 +570,16 @@
       "content_type": "application/octet-stream",
       "state": "uploaded",
       "size": 118,
-      "digest": "sha256:793e3260c6980945bae1f131473a60db4aedc6b834eca5e5ee392d5876ae6ed7",
+      "digest": "sha256:f4512fb700b9d044681c45cb2ae0c8729219d7d58f845c6aa7208692caa33805",
       "download_count": 1,
-      "created_at": "2026-10-02T05:33:01Z",
-      "updated_at": "2026-10-02T05:33:01Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-unknown-linux-musl.sha256"
+      "created_at": "2026-10-02T17:29:55Z",
+      "updated_at": "2026-10-02T17:29:55Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-x86_64-unknown-linux-musl.sha256"
     },
     {
-      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/604887726",
-      "id": 604887726,
-      "node_id": "RA_kwDOJpF-I84kDdqu",
+      "url": "https://api.github.com/repos/x52dev/inspect-cert-chain/releases/assets/606121342",
+      "id": 606121342,
+      "node_id": "RA_kwDOJpF-I84kIK1-",
       "name": "inspect-cert-chain-x86_64-unknown-linux-musl.tar.gz",
       "label": "",
       "uploader": {
@@ -605,15 +605,15 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 2650438,
-      "digest": "sha256:1197f9c782adea8240b491e79b431e1650ae34f7b02c531ebdf5fdd3c9c65f45",
+      "size": 2652970,
+      "digest": "sha256:0dad8f0a4044891330a0516684798c0ed72ed453e224124b4e0e644d87d5dd45",
       "download_count": 0,
-      "created_at": "2026-10-02T05:33:01Z",
-      "updated_at": "2026-10-02T05:33:01Z",
-      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.42/inspect-cert-chain-x86_64-unknown-linux-musl.tar.gz"
+      "created_at": "2026-10-02T17:29:55Z",
+      "updated_at": "2026-10-02T17:29:55Z",
+      "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-x86_64-unknown-linux-musl.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/x52dev/inspect-cert-chain/tarball/v0.0.42",
-  "zipball_url": "https://api.github.com/repos/x52dev/inspect-cert-chain/zipball/v0.0.42",
-  "body": "- Add `--fields` to select certificate fields in text output.\r\n- Add `--json` for structured certificate output with field selection and check results. Write logs to stderr so they do not mix with certificate output."
+  "tarball_url": "https://api.github.com/repos/x52dev/inspect-cert-chain/tarball/v0.0.43",
+  "zipball_url": "https://api.github.com/repos/x52dev/inspect-cert-chain/zipball/v0.0.43",
+  "body": "- Format `OtherName` values as text for supported ASN.1 string types, or as tagged hex for other values. Resolve known object identifiers to names.\r\n- Format `EdiPartyName` values with the party name and optional name assigner.\r\n- Correct the issuer unique ID label and show its bit length. Omit absent IDs and handle IDs with unused bits without a panic.\r\n- Escape control characters in general names in text output. Keep decoded values in JSON output.\r\n- Remove the trailing colon from the last line of hex output when the byte count is an exact multiple of the line width."
 }
