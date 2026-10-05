@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2557521,
       "digest": "sha256:3d66c51757a5f1439822b89e89a46f4a9ce09ec0b4a673db86987adbde34f70d",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-10-02T17:29:58Z",
       "updated_at": "2026-10-02T17:29:59Z",
       "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-x86_64-unknown-linux-gnu.tar.gz"
