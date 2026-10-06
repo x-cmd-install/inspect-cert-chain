@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2199564,
       "digest": "sha256:5090835d0ba221234e234cf530c5f8ec2e74b7590e93ed6cc839efd7cdca358e",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-02T17:29:35Z",
       "updated_at": "2026-10-02T17:29:35Z",
       "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-aarch64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 2396868,
       "digest": "sha256:cc31f0b2b03957949f8a66431fbb873f25dcace1266961bdf414d4a3d43e6819",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-02T17:30:38Z",
       "updated_at": "2026-10-02T17:30:38Z",
       "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-aarch64-unknown-linux-gnu.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2394409,
       "digest": "sha256:f9fb4b677ba3f03120a1bed6694349d5e22e71f5458869e9bf5b5a2a1b7227ed",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-10-02T17:29:35Z",
       "updated_at": "2026-10-02T17:29:36Z",
       "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-x86_64-apple-darwin.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 2557521,
       "digest": "sha256:3d66c51757a5f1439822b89e89a46f4a9ce09ec0b4a673db86987adbde34f70d",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-10-02T17:29:58Z",
       "updated_at": "2026-10-02T17:29:59Z",
       "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-x86_64-unknown-linux-gnu.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 2652970,
       "digest": "sha256:0dad8f0a4044891330a0516684798c0ed72ed453e224124b4e0e644d87d5dd45",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-02T17:29:55Z",
       "updated_at": "2026-10-02T17:29:55Z",
       "browser_download_url": "https://github.com/x52dev/inspect-cert-chain/releases/download/v0.0.43/inspect-cert-chain-x86_64-unknown-linux-musl.tar.gz"
