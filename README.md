@@ -14,11 +14,11 @@ x install inspect-cert-chain
 
 ## Code insight
 
-Total: **2,767** lines of code across **15** files in the top 5 languages.
+Total: **2,814** lines of code across **15** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 2,625 | 17 | 457 | 10 |
+| Rust | 2,672 | 17 | 466 | 10 |
 | Nix | 53 | 12 | 6 | 1 |
 | Sh | 46 | 1 | 9 | 1 |
 | Toml | 43 | 0 | 3 | 1 |
@@ -32,7 +32,7 @@ Total: **2,767** lines of code across **15** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.43` (2026-10-02)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-03
 - **Assets in release**: 16
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **2,767** lines of code across **15** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 516 · **Open PRs**: 5 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 647
+- **Releases**: 39 · **Merged PRs**: 517 · **Open PRs**: 5 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 648
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-03 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-04 | 16 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-06 | 18 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-07 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-12 | 24 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-04 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-04 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-05 | 16 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-07 | 18 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-08 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-13 | 24 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for inspect-cert-chain lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:25:20Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:08:07Z._
