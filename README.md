@@ -32,7 +32,7 @@ Total: **2,841** lines of code across **15** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.43` (2026-10-02)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-23
 - **Assets in release**: 16
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **2,841** lines of code across **15** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 39 · **Merged PRs**: 531 · **Open PRs**: 7 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 662
+- **Releases**: 39 · **Merged PRs**: 533 · **Open PRs**: 5 · **Closed issues**: 6 · **Open issues**: 0 · **Commits**: 664
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 8 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 17 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-28 | 19 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-03 | 24 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 8 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-29 | 19 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-04 | 24 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for inspect-cert-chain lives in the [x-cmd/install](https://git
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:19:02Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:10:14Z._
